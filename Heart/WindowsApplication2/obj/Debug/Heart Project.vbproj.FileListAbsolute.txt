@@ -1,0 +1,36 @@
+c:\users\harsha\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+c:\users\harsha\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+c:\users\harsha\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Heart Project.vbproj.GenerateResource.Cache
+c:\users\harsha\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+c:\users\harsha\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+c:\users\harsha\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+c:\users\harsha\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+c:\users\harsha\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+c:\users\harsha\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+c:\users\harsha\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\Harsha\Desktop\New folder (2)\visual basic\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\Harsha\Desktop\New folder (2)\visual basic\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\Harsha\Desktop\New folder (2)\visual basic\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\Harsha\Desktop\New folder (2)\visual basic\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\Harsha\Desktop\New folder (2)\visual basic\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Harsha\Desktop\New folder (2)\visual basic\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Harsha\Desktop\New folder (2)\visual basic\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\Harsha\Desktop\New folder (2)\visual basic\WindowsApplication2\WindowsApplication2\obj\Debug\Heart Project.vbprojResolveAssemblyReference.cache
+C:\Users\Harsha\Desktop\New folder (2)\visual basic\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+C:\Users\Harsha\Desktop\New folder (2)\visual basic\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\Harsha\Desktop\New folder (2)\visual basic\WindowsApplication2\WindowsApplication2\obj\Debug\Heart Project.vbproj.GenerateResource.Cache
+C:\Users\Harsha\Desktop\shiva vb\visual basic\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\Harsha\Desktop\shiva vb\visual basic\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\Harsha\Desktop\shiva vb\visual basic\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\Harsha\Desktop\shiva vb\visual basic\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+E:\DOT NET\Visual Basics\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+E:\DOT NET\Visual Basics\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+E:\DOT NET\Visual Basics\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+E:\DOT NET\Visual Basics\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+E:\DOT NET\Visual Basics\WindowsApplication2\WindowsApplication2\obj\Debug\Heart Project.vbprojResolveAssemblyReference.cache
+E:\DOT NET\Visual Basics\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+E:\DOT NET\Visual Basics\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+E:\DOT NET\Visual Basics\WindowsApplication2\WindowsApplication2\obj\Debug\Heart Project.vbproj.GenerateResource.Cache
+E:\DOT NET\Visual Basics\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+E:\DOT NET\Visual Basics\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+E:\DOT NET\Visual Basics\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
